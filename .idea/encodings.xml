@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/Test/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/QuestionDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dbFile/Question.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/domain/Question.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/domain/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/service/QuestionService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/service/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/BaseFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/MySpring.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/QuestionFileReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/UserFileReader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/ExamFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/view/LoginFrame.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
